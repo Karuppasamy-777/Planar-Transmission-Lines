@@ -1,9 +1,12 @@
+
 # **Study of Planar Transmission Lines in Electromagnetic and Communication Systems**
 
 
 ## Introduction: 
 
 <p>    Planar transmission lines are widely used in modern communication systems to transmit high-frequency electrical signals, especially in the microwave range. They are constructed on a flat dielectric substrate using printed circuit technology, making them highly suitable for compact and integrated electronic circuits. Compared to conventional transmission lines, they offer better compatibility with modern design requirements.</p> 
+
+![INTRO](introemt.png)
 
  → **Compact and Lightweight:** Their design makes them smaller and lighter than traditional transmission lines, making them ideal for portable and space-limited applications.
 
@@ -58,6 +61,8 @@
 
 <p>Planar transmission lines are used in RF and microwave circuits such as filters, amplifiers, oscillators, and power dividers. At high frequencies, normal wires cannot carry signals efficiently, so transmission lines are required.</p>
 
+![RF](rf.png)
+
  **These lines help in:**
 
 *  Maintaining proper impedance → reduces signal reflection
@@ -73,6 +78,8 @@
 
    In phased array antenna systems, planar transmission lines are used to distribute signals to multiple antenna elements through feed networks. They control both the amplitude and phase of signals reaching each element.
 
+ ![phased array](phasearray.png)
+
  **This allows:**
 
 *  Beam steering → changing signal direction electronically
@@ -87,7 +94,7 @@
 
    Planar transmission lines are used in satellite communication systems to transfer signals between antennas, transmitters, and receivers. These systems operate at very high frequencies, so efficient transmission is very important.
 
- 
+ ![satellite](sateliteandcomunication.png)
 
  **They provide:**
 
@@ -106,7 +113,7 @@
 
    These lines are also used in phased array radar systems for accurate detection, tracking, and imaging of objects. Their stable performance at high frequencies ensures precise measurements and reliable operation in defense and surveillance applications.
 
- 
+ ![radar](radaranddefence.png)
 
  
 
@@ -122,6 +129,8 @@
 ### 🔹 Proposed Solution
 
    To overcome these challenges, planar transmission lines such as microstrip lines and coplanar waveguides can be used. These transmission lines are fabricated on dielectric substrates using printed circuit technology, making them compact and easy to integrate with modern electronic systems.
+
+  ![Working](working.png)
 
    They provide controlled characteristic impedance, reduced signal loss, and efficient electromagnetic wave propagation. By using proper design techniques, planar transmission lines can improve signal quality, reduce reflections, and enhance overall system performance in both radar and satellite communication systems.
 
@@ -172,7 +181,7 @@
 
 *  Enables **better integration with modern electronic circuits** 
 
-
+![Fture](futurescope.png)
 
 ## 📘 Conclusion:
 

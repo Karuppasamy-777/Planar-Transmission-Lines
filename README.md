@@ -35,19 +35,19 @@
 
 ## Types of Planar Transmission Lines:
 
-### 🔹 1\. Microstrip Line
+### 🔹 1\. Microstrip Line:
 
 <p>A microstrip line consists of a conducting strip placed on top of a dielectric substrate with a ground plane at the bottom. It is one of the most widely used planar transmission lines due to its simple structure and ease of fabrication. However, it may suffer from radiation loss at higher frequencies.</p>
 
 
 
-### 🔹 2\. Stripline
+### 🔹 2\. Stripline:
 
 <p>A stripline consists of a conductor sandwiched between two ground planes within a dielectric material. This structure provides better shielding and reduces radiation loss. It supports pure TEM mode propagation, making it suitable for high-performance applications.</p>
 
 
 
-### 🔹 3\. Coplanar Waveguide (CPW)
+### 🔹 3\. Coplanar Waveguide (CPW):
 
 <p>A coplanar waveguide has a central conducting strip with ground planes placed on the same surface on either side. It is easy to integrate with active components and offers low radiation loss. It is commonly used in microwave circuits and RF applications.</p>
 
@@ -119,14 +119,14 @@
 
 ## 📘 Problem Statement: 
 
-### 🔹 Problem Statement
+### 🔹 Problem Statement:
 
    Modern radar and satellite communication systems operate at very high frequencies (microwave and millimeter-wave range), where efficient signal transmission becomes challenging. Conventional transmission methods face issues such as signal loss, impedance mismatch, increased size, and difficulty in integration with compact electronic circuits.
 
    In radar systems, accurate detection and tracking of objects require stable and low-loss signal transmission. Similarly, in satellite communication, signals must travel long distances with minimal distortion and maximum efficiency. Therefore, there is a need for a compact, reliable, and efficient transmission medium that can support high-frequency signal propagation with minimal losses.
 
 
-### 🔹 Proposed Solution
+### 🔹 Proposed Solution:
 
    To overcome these challenges, planar transmission lines such as microstrip lines and coplanar waveguides can be used. These transmission lines are fabricated on dielectric substrates using printed circuit technology, making them compact and easy to integrate with modern electronic systems.
 
@@ -135,7 +135,7 @@
    They provide controlled characteristic impedance, reduced signal loss, and efficient electromagnetic wave propagation. By using proper design techniques, planar transmission lines can improve signal quality, reduce reflections, and enhance overall system performance in both radar and satellite communication systems.
 
 
-### 🔹 Objectives
+### 🔹 Objectives:
 
 *  To design efficient transmission paths for high-frequency signals
 
@@ -148,7 +148,7 @@
 *  To improve reliability and performance of radar and satellite systems
 
 
-### 🔹 Expected Outcomes
+### 🔹 Expected Outcomes:
 
 *  Improved signal transmission with minimal loss
 
@@ -161,7 +161,7 @@
 *  Increased overall efficiency and performance
 
 
-### 🔹 Summary
+### 🔹 Summary:
 
 <p>Planar transmission lines provide an effective solution for high-frequency signal transmission in radar and satellite communication systems. Their compact design, low loss, and ability to maintain impedance matching make them highly suitable for modern applications. By implementing these transmission lines, communication systems can achieve better performance, reliability, and efficiency.</p> 
 
